@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yusuf Emre 👋
+Junior software engineer focused on backend and full-stack development.
 
-<!--
-**YusufEmreK-I/YusufEmreK-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Built and shipped a production website with Next.js & TypeScript at a Norwegian startup (ODE)
+- ☕ Backend experience with Java (Quarkus) and PostgreSQL
+- 🔐 Cybersecurity research traineeship at University of Groningen
+- 🎓 B.Sc. Information Systems Engineering, Atilim University
 
-Here are some ideas to get you started:
+**Tech:** TypeScript, React, Next.js, Node.js, Java, Quarkus, PostgreSQL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/yusuf-emre-konuk/)
+
+
+
+
+
+
+
+
